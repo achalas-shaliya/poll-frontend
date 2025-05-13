@@ -3,7 +3,7 @@
 A modern frontend application built with [Your Framework or Library, e.g., React, Vue, Angular].
 
 ## 📁 Project Structure
-
+```
 ├── public/ # Static assets
 ├── src/ # Source files
 │ ├── assets/ # Images, fonts, etc.
@@ -15,7 +15,7 @@ A modern frontend application built with [Your Framework or Library, e.g., React
 ├── .env # Environment variables
 ├── package.json
 ├── README.md
-
+```
 
 ## 🚀 Getting Started
 
